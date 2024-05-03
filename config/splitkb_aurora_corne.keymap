@@ -50,7 +50,7 @@
             bindings = <
 &kp C_BRIGHTNESS_INC  &kp Q                 &kp W                     &kp E                       &kp R                  &kp T      &kp Y      &kp U                          &kp I                        &kp O                      &kp P                          &kp C_VOLUME_UP
 &kp C_BRI_DEC         &HomeRow_Left LWIN A  &HomeRow_Left LEFT_ALT S  &HomeRow_Left LEFT_SHIFT D  &HomeRow_Left LCTRL F  &kp G      &kp H      &HomeRow_Right LEFT_CONTROL J  &HomeRow_Right LEFT_SHIFT K  &HomeRow_Right LEFT_ALT L  &HomeRow_Right LWIN SEMICOLON  &kp C_VOLUME_DOWN
-&kp LEFT              &kp Z                 &kp X                     &kp C                       &kp V                  &kp D      &kp N      &kp M                          &kp COMMA                    &kp DOT                    &kp FSLH                       &kp RIGHT
+&kp LEFT              &kp Z                 &kp X                     &kp C                       &kp V                  &kp B      &kp N      &kp M                          &kp COMMA                    &kp DOT                    &kp FSLH                       &kp RIGHT
                                                                       &trans                      &lt 2 SPACE            &kp ESC    &kp ENTER  &lt 1 BACKSPACE                &trans
             >;
         };
