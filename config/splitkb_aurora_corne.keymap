@@ -43,6 +43,7 @@
         Gaming {
             bindings = <&tog 6>;
             key-positions = <24 35>;
+            layers = <0 6>;
         };
     };
 
@@ -83,7 +84,7 @@
             bindings = <
 &none  &none         &none         &none           &none             &none        &kp LC(Y)  &kp HOME       &kp PAGE_DOWN  &kp PAGE_UP  &kp END    &none
 &none  &kp LEFT_WIN  &kp LEFT_ALT  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &none        &none      &kp LEFT       &kp DOWN       &kp UP       &kp RIGHT  &none
-&none  &kp LC(Z)     &kp C_AC_CUT  &kp C_AC_COPY   &kp C_AC_PASTE    &kp LC(Y)    &none      &none          &none          &none        &none      &none
+&none  &kp LC(Z)     &kp LC(X)     &kp LC(C)       &kp LC(V)         &kp LC(Y)    &none      &none          &none          &none        &none      &none
                                    &trans          &trans            &trans       &kp ENTER  &kp BACKSPACE  &kp DEL
             >;
         };
