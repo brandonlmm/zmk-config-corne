@@ -124,10 +124,10 @@
 
         Basic_Gaming {
             bindings = <
-&none  &kp Q  &kp W  &kp E    &kp R      &kp T        &kp Y        &kp U            &kp I         &kp O    &kp P          &none
-&none  &kp A  &kp S  &kp D    &kp F      &kp G        &kp H        &kp J            &kp K         &kp L    &kp SEMICOLON  &none
-&none  &kp Z  &kp X  &kp C    &kp V      &kp B        &kp N        &kp M            &kp COMMA     &kp DOT  &kp FSLH       &none
-                     &kp ESC  &kp SPACE  &lt 3 TAB    &lt 4 ENTER  &lt 4 BACKSPACE  &lt 5 DELETE
+&none  &kp Q                         &kp W  &kp E    &kp R      &kp T        &kp Y        &kp U            &kp I         &kp O    &kp P          &none
+&none  &HomeRow_Left LEFT_SHIFT A    &kp S  &kp D    &kp F      &kp G        &kp H        &kp J            &kp K         &kp L    &kp SEMICOLON  &none
+&none  &HomeRow_Left LEFT_CONTROL Z  &kp X  &kp C    &kp V      &kp B        &kp N        &kp M            &kp COMMA     &kp DOT  &kp FSLH       &none
+                                            &kp ESC  &kp SPACE  &lt 3 TAB    &lt 4 ENTER  &lt 4 BACKSPACE  &lt 5 DELETE
             >;
         };
     };
