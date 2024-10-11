@@ -122,10 +122,10 @@
 
         Program_Navigation {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp LG(LEFT_ARROW)  &kp LG(LC(J))  &kp LG(LC(K))  &kp LG(RIGHT)  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans              &trans         &trans         &trans         &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans              &trans         &trans         &trans         &trans
-                        &trans  &trans  &trans    &trans  &trans              &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &trans           &kp LS(F13)      &kp LG(LC(J))    &kp LG(LC(K))    &kp LG(LS(F14))  &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &kp LS(LC(F13))  &kp LS(F15)      &kp LS(F16)      &kp LS(F17)      &kp LS(F17)      &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &kp LS(LC(F14))  &kp LS(LC(F15))  &kp LS(LC(F16))  &kp LS(LC(F17))  &kp LS(LC(F18))  &trans
+                        &trans  &trans  &trans    &trans           &trans           &trans
             >;
         };
 
